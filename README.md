@@ -25,3 +25,5 @@ The client company which distributes automobiles, is developing an application f
 * NumberOfPictures — the number of photos of the car
 * PostalCode — postal code of the owner of the questionnaire (user)
 * LastSeen — date of last user activity
+
+## Target is a car price (in euro).
