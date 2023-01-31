@@ -28,7 +28,7 @@ The client company which distributes automobiles, is developing an application f
 
 ## Target is a car price (in euro).
 
-# EDA
+# Exploratory Data Analysis (EDA)
 
 ![image](https://user-images.githubusercontent.com/115020322/215778450-92c06fc1-e04f-47d3-85bb-10f74c808317.png)
 
